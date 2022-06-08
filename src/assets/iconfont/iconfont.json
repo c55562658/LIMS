@@ -1,0 +1,23 @@
+{
+  "id": "3224904",
+  "name": "lsos",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "受限空间作业管理系统",
+  "glyphs": [
+    {
+      "icon_id": "8712571",
+      "name": "B-05右前进",
+      "font_class": "youqianjin",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "8713987",
+      "name": "20左前进",
+      "font_class": "zuoqianjin",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    }
+  ]
+}
